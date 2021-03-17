@@ -5,7 +5,7 @@
 It looks like gitbook supports some useful widgets beyond just the usual markdown tags. Here is a standard markdown code widget :
 
 ```
-$ give me super-powers
+$ apt-get update && apt-get upgrade
 ```
 
 This is an info box:
