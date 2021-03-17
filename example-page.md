@@ -20,6 +20,8 @@ Here is a warning box:
 Warning!
 {% endhint %}
 
+Python snippet:
+
 {% code title="hello.py" %}
 ```python
 # This is a comment, let's say hello
