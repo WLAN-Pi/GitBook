@@ -1,25 +1,33 @@
 # Example page
 
-## Getting Super Powers
+## Different Widgets 
 
-Becoming a super hero is a fairly straight forward process:
+It looks like gitbook supports some useful widgets beyond just the usual markdown tags. Here is a standard markdown code widget :
 
 ```
 $ give me super-powers
 ```
 
+This is an info box:
+
 {% hint style="info" %}
- Super-powers are granted randomly so please submit an issue if you're not happy with yours.
+ Here is some important info!
 {% endhint %}
 
-Once you're strong enough, save the world:
+Here is a warning box:
 
-{% code title="hello.sh" %}
-```bash
-# Ain't no code for that yet, sorry
-echo 'You got to trust me on this, I saved the world'
+{% hint style="warning" %}
+Warning!
+{% endhint %}
+
+{% code title="hello.py" %}
+```python
+# This is a comment, let's say hello
+print('Hello world')
 ```
 {% endcode %}
 
+Here is an embedded image:
 
+![Hello handsome.](.gitbook/assets/nigel.png)
 
