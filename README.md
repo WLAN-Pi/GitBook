@@ -1,4 +1,4 @@
-# WLAN Pi Docs
+# WLAN Pi User Guide
 
  The WLAN Pi initiative started at the [Wireless LAN Professionals Conference](https://www.wlanpros.com/resource/?wpv-category=2016-us-phoenix&wpv_aux_current_post_id=2623) in 2016. Since then, the WLAN Pi has grown in to a popular addition to the toolset of many WLAN engineers.
 
