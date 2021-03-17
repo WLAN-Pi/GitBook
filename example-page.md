@@ -33,3 +33,5 @@ Here is an embedded image:
 
 ![Hello handsome.](.gitbook/assets/nigel.png)
 
+(>>> This line added from GitHub, not Gitbook GUI <<<)
+
