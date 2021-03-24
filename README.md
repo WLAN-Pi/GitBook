@@ -18,3 +18,5 @@ The bulk of this site is now dedicated to the version 2 WLAN Pi image. The docum
 
  Last update: October 7, 2020
 
+A boat load of edits made by Nick Turner
+
