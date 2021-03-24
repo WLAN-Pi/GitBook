@@ -37,5 +37,7 @@ Here is an embedded image:
 
 Here is an embedded YouTube Video:
 
-[https://www.youtube.com/watch?v=UCO9m-EpUAc](https://www.youtube.com/watch?v=UCO9m-EpUAc)
+{% embed url="https://www.youtube.com/watch?v=UCO9m-EpUAc" %}
+
+
 
