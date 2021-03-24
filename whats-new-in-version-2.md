@@ -14,7 +14,13 @@ The WLAN Pi development team presented a collaborative video for the online CWNP
 
 If you'd like to get hold of the latest version 2 image for your WLAN Pi, you can download the software image from here: [WLAN Pi Images](https://github.com/WLAN-Pi/releases/releases) \(look for the assets section that contains the image - the file name will be something like: `wlanpi-neo2-v2.0.0.img.gz`\). Note that bugfixes and improvement are being continually added, so please ensure you download the latest 2.x.x image version.
 
-To burn your image on to an SD card, the information provided in this video is still good, even though it was created for a v1.x.x image: [How to Burn a New Image on Your WLAN Pi \(WiFiNigel\)](https://youtu.be/sD4WlNyyWDs)
+To burn your image on to an SD card, the information provided in this video is still good, even though it was created for a v1.x.x image: [How to Burn a New Image on Your WLAN Pi \(WiFiNigel\)](https://youtu.be/sD4WlNyyWDs) 
+
+{% embed url="https://www.youtube.com/watch?v=sD4WlNyyWDs" %}
+
+
+
+
 
  Last update: October 8, 2020
 
