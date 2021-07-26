@@ -1,4 +1,4 @@
-# Administration Tasks For the WLANPi
+# Administration Tasks For the WLAN Pi
 
 Administering your WLAN Pi can be a challenge to those who are not too comfortable with operating on the Linux command line \(CLI\). Over time we aim to move more towards GUI-based administration, but in the meantime there will undoubtedly be times when you'll need to roll up your sleeves and execute a few CLI commands.
 
