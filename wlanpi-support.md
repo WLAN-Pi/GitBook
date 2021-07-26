@@ -1,4 +1,4 @@
-# WLANPi support
+# WLAN Pi support
 
 As this project is provided by a team of volunteers, any support around the configuration and operation of your WLANPi is provided on a best-efforts basis.
 

@@ -11,7 +11,7 @@
 * [WLAN Pi Supported Hardware](wlan-pi-supported-hardware.md)
 * [News about the WLANPi project](news-about-the-wlanpi-project.md)
 * [Administration Tasks For the WLANPi](administration-tasks-for-the-wlanpi.md)
-* [WLANPi support](wlanpi-support.md)
+* [WLAN Pi support](wlanpi-support.md)
 * [Getting involved with the WLANPi project](getting-involved-with-the-wlanpi-project.md)
 * [WLANPi component & kit suppliers](wlanpi-component-and-kit-suppliers.md)
 * [About the WLAN Pi](about-the-wlan-pi.md)
